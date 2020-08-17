@@ -1,7 +1,7 @@
 # Password Generator
 This application uses JavaScript to create a password. The user is prompted for the length of the password, and whether or not they want to include lowercase letters, uppercase letters, numbers, or symbols. Based on the user's responses, the app uses JavaScript to put together a password of the selected length, using the selected character types.
 
-URL: 
+URL: https://jxleilani.github.io/PasswordGenerator/
 
 
 ## Assignment
